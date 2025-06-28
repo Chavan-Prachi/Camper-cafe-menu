@@ -31,7 +31,6 @@ This project simulates the digital menu for a fictional café — **Camper Café
 ## 📸 Live Preview
 
 **🔗 [View Camper Café Menu](https://chavan-prachi.github.io/Camper-Cafe-Menu/)**  
-*(Replace with your deployed URL if needed)*
 
 ---
 
