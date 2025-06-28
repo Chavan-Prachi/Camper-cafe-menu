@@ -37,13 +37,13 @@ This project simulates the digital menu for a fictional café — **Camper Café
 
 Camper-Cafe-Menu/
 
-├── index.html
+├── docs/
 
-├── styles.css
+│ ├── assets/
 
-├── assets/
+│ ├── index.html
 
-│ └── images/
+│ └── style.css
 
 └── README.md
 
