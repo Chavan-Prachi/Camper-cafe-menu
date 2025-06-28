@@ -24,13 +24,12 @@ This project simulates the digital menu for a fictional café — **Camper Café
 
 - HTML5  
 - CSS3  
-- *(Optional: JavaScript for future enhancements)*
 
 ---
 
 ## 📸 Live Preview
 
-**🔗 [View Camper Café Menu](https://chavan-prachi.github.io/Camper-Cafe-Menu/)**  
+**🔗 [View Camper Café Menu](https://chavan-prachi.github.io/Camper-cafe-menu/)**  
 
 ---
 
